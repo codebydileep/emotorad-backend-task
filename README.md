@@ -1,6 +1,5 @@
 # emotorad-backend-task
-
-Here’s how you can introduce this project specifically from the perspective of using **Postman** for API testing and validation:
+ **Postman** for API testing and validation:
 
 ---
 
